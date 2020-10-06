@@ -11,4 +11,4 @@ How to use:
 
 ```./gicr.sh -u ValveSoftware -r Proton -i 3291```
 
-```./gicr.sh -u ValveSoftware -r Proton -i 3291 -s 2020-06-16T05:39:26Z > issues```
+```./gicr.sh -u ValveSoftware -r Proton -i 3291 -s 2020-06-16T05:39:26Z > comments```
